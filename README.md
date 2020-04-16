@@ -1,3 +1,3 @@
 # actions
 Trying the github actions workflow...
-![](https://github.com/koralpc/actions/workflows/python-package/badge.svg)
+![Build](https://github.com/koralpc/actions/workflows/python-package/badge.svg)
